@@ -1,1 +1,1 @@
-# Solar-Predction-Model
+# Solar-Prediction-Model
